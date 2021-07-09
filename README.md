@@ -3,10 +3,10 @@
 
 ## I'm a Student, Nerd, and Introvert !!
 
-- 🔭 I love being around computers
+- 🔭 I love being around computers alone
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to make new friends and help others
-- 🥅 2020/21 Goals: Develop more projects and Contribute more to Open Source projects
+- 🥅 2021/22 Goals: Develop more projects and Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing video games
 
 
