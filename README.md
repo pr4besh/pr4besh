@@ -33,6 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh-np)](https://github.com/prabesh-np/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh-np)](https://github.com/prabesh-np/github-readme-stats)
 
 [facebook]: https://www.facebook.com/profile.php?id=100026968934058
