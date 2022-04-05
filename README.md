@@ -1,4 +1,4 @@
-### Hi there, I'm Prabesh Thapa. 👋
+### Hi there, I'm Prakash Gurung. 👋
 
 
 ## I'm a Student, Nerd, and Introvert !!
