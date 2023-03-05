@@ -34,9 +34,9 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4besh)](https://github.com/prabesh-np/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4besh)](https://github.com/pr4besh/github-readme-stats)
 
-[![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh-np&show_icons=true&include_all_commits=true)](https://github.com/pr4besh/github-readme-stats)
+[![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr4besh&show_icons=true&include_all_commits=true)](https://github.com/pr4besh/github-readme-stats)
 
 
 [facebook]: https://www.facebook.com/prabesh.npofficial
