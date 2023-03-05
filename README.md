@@ -6,8 +6,8 @@
 - 🔭 I love being around computers alone
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to make new friends and help others
-- 🥅 2021/22 Goals: Develop more projects and Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing video games
+- 🥅 2022/23 Goals: Develop more projects and Contribute more to Open Source projects
+- ⚡ Fun fact: I love playing video games and watch anime.
 
 
 ### Connect with me:
@@ -15,7 +15,6 @@
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -35,13 +34,12 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh-np)](https://github.com/prabesh-np/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4besh)](https://github.com/prabesh-np/github-readme-stats)
 
-[![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh-np&show_icons=true&include_all_commits=true)](https://github.com/prabesh-np/github-readme-stats)
+[![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh-np&show_icons=true&include_all_commits=true)](https://github.com/pr4besh/github-readme-stats)
 
 
-[facebook]: https://www.facebook.com/profile.php?id=100026968934058
-[twitter]: https://twitter.com/prabesh_33mroy
-[instagram]: https://www.instagram.com/ig_pr4besh/
-[linkedin]: https://www.linkedin.com/in/prabesh-thapa-454b381b4/
+[facebook]: https://www.facebook.com/prabesh.npofficial
+[twitter]: https://twitter.com/entry404
+[instagram]: https://www.instagram.com/entry.d.404/
 
